@@ -1,5 +1,9 @@
 :warning: = breaking change
 
+## 2.1.202004021
+##### 2020-april-02
+* Update to spritezero 6.1.2
+
 ## 2.1.0
 ##### 2017-jun-17
 * Update to spritezero 5.0.0
